@@ -38,7 +38,6 @@ export default function Mainpage() {
        <ImageBackground source={background}  resizeMode="cover">
       <View style={styles.logocontainer}>
       <Image source={pic3} style={styles.image} />
-      <Text style={{color:'white'}}>PRESSENTS</Text>
       </View>
        </ImageBackground>
       </View>
